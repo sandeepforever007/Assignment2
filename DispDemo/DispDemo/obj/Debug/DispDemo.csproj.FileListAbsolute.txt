@@ -1,0 +1,7 @@
+c:\users\sande\source\repos\DispDemo\DispDemo\bin\Debug\DispDemo.exe.config
+c:\users\sande\source\repos\DispDemo\DispDemo\bin\Debug\DispDemo.exe
+c:\users\sande\source\repos\DispDemo\DispDemo\bin\Debug\DispDemo.pdb
+c:\users\sande\source\repos\DispDemo\DispDemo\obj\Debug\DispDemo.csprojResolveAssemblyReference.cache
+c:\users\sande\source\repos\DispDemo\DispDemo\obj\Debug\DispDemo.csproj.CoreCompileInputs.cache
+c:\users\sande\source\repos\DispDemo\DispDemo\obj\Debug\DispDemo.exe
+c:\users\sande\source\repos\DispDemo\DispDemo\obj\Debug\DispDemo.pdb

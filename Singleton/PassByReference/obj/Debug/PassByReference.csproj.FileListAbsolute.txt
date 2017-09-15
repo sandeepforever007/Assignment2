@@ -1,0 +1,7 @@
+C:\Users\sande\source\repos\Singleton\PassByReference\bin\Debug\PassByReference.exe.config
+C:\Users\sande\source\repos\Singleton\PassByReference\bin\Debug\PassByReference.exe
+C:\Users\sande\source\repos\Singleton\PassByReference\bin\Debug\PassByReference.pdb
+C:\Users\sande\source\repos\Singleton\PassByReference\obj\Debug\PassByReference.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\Singleton\PassByReference\obj\Debug\PassByReference.exe
+C:\Users\sande\source\repos\Singleton\PassByReference\obj\Debug\PassByReference.pdb
+C:\Users\sande\source\repos\Singleton\PassByReference\obj\Debug\PassByReference.csprojResolveAssemblyReference.cache
